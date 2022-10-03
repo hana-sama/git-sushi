@@ -80,4 +80,7 @@ git grep <search term>
 
 -- display multriple files in the directory
 git ls-files
+
+-- display log history retroactively
+git log -p
 -->
