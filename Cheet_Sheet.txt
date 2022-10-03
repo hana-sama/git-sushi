@@ -77,4 +77,7 @@ grep -r(recursively) <search term> .(current directory)
 
 -- search word via git command
 git grep <search term>
+
+-- display multriple files in the directory
+git ls-files
 -->
