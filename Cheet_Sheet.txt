@@ -82,5 +82,8 @@ git grep <search term>
 git ls-files
 
 -- display log history retroactively
-git log -p
+git log -p <filename>
+
+-- track commit history who made certain changes to certain files
+git blame <file name>
 -->
