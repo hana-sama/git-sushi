@@ -71,4 +71,7 @@ git log --onlien --graph
 
 -- annul merge 
 git reset --hard ORIG_HEAD
+
+-- search certain word
+grep -r(recursively) <search term> .(current directory)
 -->
