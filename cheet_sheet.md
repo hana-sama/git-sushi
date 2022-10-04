@@ -93,4 +93,10 @@ code(editor) .gitignre and start with *.<extension>
 -- ignore minor changes
 git diff -w <filename>..<filename>
 git show - w <filename>
+
+--create serial files
+touch dummy-files{01..11}.txt
+
+--removing untracked files
+git clean -f
 -->
