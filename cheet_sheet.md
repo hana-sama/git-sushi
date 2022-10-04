@@ -89,4 +89,8 @@ git blame <file name>
 
 -- ignore specific file or files
 code(editor) .gitignre and start with *.<extension>
+
+-- ignore minor changes
+git diff -w <filename>..<filename>
+git show - w <filename>
 -->
