@@ -86,4 +86,7 @@ git log -p <filename>
 
 -- track commit history who made certain changes to certain files
 git blame <file name>
+
+-- remove specific file 
+git rm <directory name/file name>
 -->
