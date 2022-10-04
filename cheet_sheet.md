@@ -88,5 +88,5 @@ git log -p <filename>
 git blame <file name>
 
 -- ignore specific file or files
-.gitignre <file name>
+code(editor) .gitignre and start with *.<extension>
 -->
