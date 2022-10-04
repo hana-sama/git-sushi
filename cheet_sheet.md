@@ -86,4 +86,7 @@ git log -p <filename>
 
 -- track commit history who made certain changes to certain files
 git blame <file name>
+
+-- ignore specific file or files
+.gitignre <file name>
 -->
