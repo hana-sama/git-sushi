@@ -99,4 +99,7 @@ touch dummy-files{01..11}.txt
 
 --removing untracked files
 git clean -f
+
+--removing untracked files in untracked directory
+git clean -fd
 -->
